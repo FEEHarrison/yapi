@@ -4,7 +4,7 @@
   "timeout":120000,
   "db": {
     "servername": "127.0.0.1",
-    "DATABASE": "yapi",
+    "DATABASE": "mongodb",
     "port": 27017,
     "user": "yapi",
     "pass": "yapi123456",
